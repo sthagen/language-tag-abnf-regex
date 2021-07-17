@@ -10,6 +10,9 @@ PATTERN_SOURCE_PATH = pathlib.Path('grammar', 'regular-expression', 'language-ta
 with open(PATTERN_SOURCE_PATH, 'rt', encoding=ENCODING) as pattern_source:
     PATTERN = pattern_source.read()
 
+TAG_SOURCE_ROOT = pathlib.Path('tests', 'abnfgen', 'language-tag-n-100-s-42')
+TAG_SOURCE_NAME_TEMPLATE = 'language-tag-{}.txt'
+
 
 def match(pattern: str, text: str):
     """Proxy method to evaluate the pattern match on text."""
@@ -38,3 +41,13 @@ def test_ok_match_on_well_known_tags():
 
 def test_nok_do_not_match_empty_tag():
     assert not match(PATTERN, '')
+
+
+def test_ok_match_on_abnfgen_cases():
+    for number in range(2, 3):
+        tag_source_path = pathlib.Path(TAG_SOURCE_ROOT, TAG_SOURCE_NAME_TEMPLATE.format(number))
+        with open(tag_source_path, 'rt', encoding=ENCODING) as tag_source:
+            tag = tag_source.read()
+        actual = match(PATTERN, tag)
+        if actual is None:
+            raise RuntimeError("Failed to match tag (%s) from source (%s)" % (tag, tag_source_path))
