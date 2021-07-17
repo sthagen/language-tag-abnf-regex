@@ -8,6 +8,7 @@ Base information from:
         Phillips, A., Ed., and M. Davis, Ed., "Tags for Identifying Languages", BCP 47, RFC 5646, September 2009.
         https://www.rfc-editor.org/info/bcp47
 ```
+Direct link: https://www.rfc-editor.org/rfc/bcp/bcp47.txt
 
 ## Status
 
