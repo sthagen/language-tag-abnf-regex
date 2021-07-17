@@ -6,7 +6,7 @@ import re
 import pytest  # type: ignore
 
 ENCODING = 'utf-8'
-PATTERN_SOURCE_PATH = pathlib.Path('grammar', 'regular-expression', 'language-type.regex')
+PATTERN_SOURCE_PATH = pathlib.Path('grammar', 'regular-expression', 'language-tag.regex')
 with open(PATTERN_SOURCE_PATH, 'rt', encoding=ENCODING) as pattern_source:
     PATTERN = pattern_source.read()
 

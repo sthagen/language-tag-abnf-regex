@@ -1,6 +1,6 @@
-# language-type-abnf-regex
+# language-tag-abnf-regex
 
-Test repository for the ABNF translation of language type codes into a regular expression for CSAF.
+Test repository for the ABNF translation of language tag codes into a regular expression for CSAF.
 
 Base information from:
 ```

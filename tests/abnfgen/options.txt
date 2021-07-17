@@ -1,1 +1,1 @@
--c -w seed- -r 42 -y 42 -d ./ -p language-tag-#.txt -n 100 -s Language-Tag ../../grammar/abnf/language-type.abnf
+-c -w seed- -r 42 -y 42 -d ./ -p language-tag-#.txt -n 100 -s Language-Tag ../../grammar/abnf/language-tag.abnf
