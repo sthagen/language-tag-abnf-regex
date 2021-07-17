@@ -37,4 +37,5 @@ grandfathered = i-default|i-mingo
 Source: @tschmidtb51 in https://github.com/oasis-tcs/csaf/issues/71
 
 
-**Note**: The default branch is default.
+**Note**: The default branch is `default`.
+
