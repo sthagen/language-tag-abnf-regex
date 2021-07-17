@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 # pylint: disable=missing-docstring,unused-import,reimported
+import pathlib
 import re
 
 import pytest  # type: ignore
 
-# HACK A DID ACK - todo(sthagen) temporary placement of SUT in below constant
-PATTERN = (
-    r'^(([A-Za-z]{2,3}(-[A-Za-z]{3}(-[A-Za-z]{3}){0,2})?|[A-Za-z]{4,8})'
-    r'(-[A-Za-z]{4})?(-([A-Za-z]{2}|[0-9]{3}))?(-([A-Za-z0-9]{5,8}|[0-9][A-Za-z0-9]{3}))*'
-    r'(-[A-WY-Za-wy-z0-9](-[A-Za-z0-9]{2,8})+)*(-x(-[A-Za-z0-9]{1,8})+)?|x(-[A-Za-z0-9]{1,8})+|i-default|i-mingo)$')
+ENCODING = 'utf-8'
+PATTERN_SOURCE_PATH = pathlib.Path('grammar', 'regular-expression', 'language-type.regex')
+with open(PATTERN_SOURCE_PATH, 'rt', encoding=ENCODING) as pattern_source:
+    PATTERN = pattern_source.read()
 
 
 def match(pattern: str, text: str):
