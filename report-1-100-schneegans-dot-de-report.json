@@ -1,0 +1,3085 @@
+[
+  {
+    "Input": "X-Z",
+    "Canonical": "x-z",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "Z"
+    ],
+    "Messages": [
+      "Consider to use the canonical form 'x-z' instead of 'X-Z'."
+    ]
+  },
+  {
+    "Input": "Nhr-826-x-37xd5v10-4-95G-4b0-McE-q-z-649-tJ-3232Sm-C-8",
+    "Canonical": "nhr-826-x-37xd5v10-4-95g-4b0-mce-q-z-649-tj-3232sm-c-8",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "nhr",
+      "Description": "Naro"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "826",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "37xd5v10",
+      "4",
+      "95G",
+      "4b0",
+      "McE",
+      "q",
+      "z",
+      "649",
+      "tJ",
+      "3232Sm",
+      "C",
+      "8"
+    ],
+    "Messages": [
+      "'826' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'nhr-826-x-37xd5v10-4-95g-4b0-mce-q-z-649-tj-3232sm-c-8' instead of 'Nhr-826-x-37xd5v10-4-95G-4b0-McE-q-z-649-tJ-3232Sm-C-8'."
+    ]
+  },
+  {
+    "Input": "I-TAO",
+    "Canonical": "tao",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-tao' is grandfathered. You should use 'tao' instead.",
+      "Consider to use the canonical form 'tao' instead of 'I-TAO'."
+    ]
+  },
+  {
+    "Input": "x-sK-aT-QU-Xul-j-oif-IF",
+    "Canonical": "x-sk-at-qu-xul-j-oif-if",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "sK",
+      "aT",
+      "QU",
+      "Xul",
+      "j",
+      "oif",
+      "IF"
+    ],
+    "Messages": [
+      "Consider to use the canonical form 'x-sk-at-qu-xul-j-oif-if' instead of 'x-sK-aT-QU-Xul-j-oif-IF'."
+    ]
+  },
+  {
+    "Input": "wORgynep-VkYL-3WHP-DBAgB-cargOZkD-6jNC-YGpgM-dAhKA-7EZG-0Rrx-OZMlCbo-2vhf-5wkc-7OFG-wRKmQ-lGajd-3CKC-1Yrl-1FqL-7ztG-1gjk-z-xMFaehZZ",
+    "Canonical": "worgynep-Vkyl-3whp-dbagb-cargozkd-6jnc-ygpgm-dahka-7ezg-0rrx-ozmlcbo-2vhf-5wkc-7ofg-wrkmq-lgajd-3ckc-1yrl-1fql-7ztg-1gjk-z-xMFaehZZ",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "worgynep",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Vkyl",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "3whp",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "dbagb",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "cargozkd",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "6jnc",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "ygpgm",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "dahka",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "7ezg",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "0rrx",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "ozmlcbo",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "2vhf",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "5wkc",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "7ofg",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "wrkmq",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "lgajd",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "3ckc",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "1yrl",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "1fql",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "7ztg",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "1gjk",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "z": [
+          "xMFaehZZ"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'wORgynep' is not a valid subtag of type 'language'.",
+      "'VkYL' is not a valid subtag of type 'script'.",
+      "'3WHP' is not a valid subtag of type 'variant'.",
+      "'DBAgB' is not a valid subtag of type 'variant'.",
+      "'cargOZkD' is not a valid subtag of type 'variant'.",
+      "'6jNC' is not a valid subtag of type 'variant'.",
+      "'YGpgM' is not a valid subtag of type 'variant'.",
+      "'dAhKA' is not a valid subtag of type 'variant'.",
+      "'7EZG' is not a valid subtag of type 'variant'.",
+      "'0Rrx' is not a valid subtag of type 'variant'.",
+      "'OZMlCbo' is not a valid subtag of type 'variant'.",
+      "'2vhf' is not a valid subtag of type 'variant'.",
+      "'5wkc' is not a valid subtag of type 'variant'.",
+      "'7OFG' is not a valid subtag of type 'variant'.",
+      "'wRKmQ' is not a valid subtag of type 'variant'.",
+      "'lGajd' is not a valid subtag of type 'variant'.",
+      "'3CKC' is not a valid subtag of type 'variant'.",
+      "'1Yrl' is not a valid subtag of type 'variant'.",
+      "'1FqL' is not a valid subtag of type 'variant'.",
+      "'7ztG' is not a valid subtag of type 'variant'.",
+      "'1gjk' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'worgynep-Vkyl-3whp-dbagb-cargozkd-6jnc-ygpgm-dahka-7ezg-0rrx-ozmlcbo-2vhf-5wkc-7ofg-wrkmq-lgajd-3ckc-1yrl-1fql-7ztg-1gjk-z-xMFaehZZ' instead of 'wORgynep-VkYL-3WHP-DBAgB-cargOZkD-6jNC-YGpgM-dAhKA-7EZG-0Rrx-OZMlCbo-2vhf-5wkc-7OFG-wRKmQ-lGajd-3CKC-1Yrl-1FqL-7ztG-1gjk-z-xMFaehZZ'."
+    ]
+  },
+  {
+    "Input": "EDuiK-naTz-Lo-B-4s-bXQn-351-75-1V-F04V-U2-53n-gw-Ot-c7-egjG-X-1",
+    "Canonical": "eduik-Natz-LO-B-4s-bXQn-351-75-1V-F04V-U2-53n-gw-Ot-c7-egjG-x-1",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "eduik",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Natz",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "LO",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "B": [
+          "4s",
+          "bXQn",
+          "351",
+          "75",
+          "1V",
+          "F04V",
+          "U2",
+          "53n",
+          "gw",
+          "Ot",
+          "c7",
+          "egjG"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "1"
+    ],
+    "Messages": [
+      "'EDuiK' is not a valid subtag of type 'language'.",
+      "'naTz' is not a valid subtag of type 'script'.",
+      "'Lo' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'eduik-Natz-LO-B-4s-bXQn-351-75-1V-F04V-U2-53n-gw-Ot-c7-egjG-x-1' instead of 'EDuiK-naTz-Lo-B-4s-bXQn-351-75-1V-F04V-U2-53n-gw-Ot-c7-egjG-X-1'."
+    ]
+  },
+  {
+    "Input": "rjuM-Ne-Z-gO-Tl-8-5UyR-x-02O6CWc",
+    "Canonical": "rjum-NE-8-5UyR-Z-gO-Tl-x-02o6cwc",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "rjum",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "NE",
+      "Description": "Niger"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "Z": [
+          "gO",
+          "Tl"
+        ]
+      },
+      {
+        "8": [
+          "5UyR"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "02O6CWc"
+    ],
+    "Messages": [
+      "'rjuM' is not a valid subtag of type 'language'.",
+      "Consider to use the canonical form 'rjum-NE-8-5UyR-Z-gO-Tl-x-02o6cwc' instead of 'rjuM-Ne-Z-gO-Tl-8-5UyR-x-02O6CWc'."
+    ]
+  },
+  {
+    "Input": "gs-REm-9F57ro",
+    "Canonical": "gs-rem-9f57ro",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "gs",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "9f57ro",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'gs' is not a valid subtag of type 'language'.",
+      "'REm' is not a valid subtag of type 'extlang'.",
+      "'9F57ro' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'gs-rem-9f57ro' instead of 'gs-REm-9F57ro'."
+    ]
+  },
+  {
+    "Input": "ZH-XIANG",
+    "Canonical": "hsn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "xiang",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-xiang' is grandfathered. You should use 'hsn' instead.",
+      "'XIANG' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'hsn' instead of 'ZH-XIANG'."
+    ]
+  },
+  {
+    "Input": "oUr-7c8D-1t3E08-Y52Cr8-X-z",
+    "Canonical": "our-7c8d-1t3e08-y52cr8-x-z",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "our",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "7c8d",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "1t3e08",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "y52cr8",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "z"
+    ],
+    "Messages": [
+      "'oUr' is not a valid subtag of type 'language'.",
+      "'7c8D' is not a valid subtag of type 'variant'.",
+      "'1t3E08' is not a valid subtag of type 'variant'.",
+      "'Y52Cr8' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'our-7c8d-1t3e08-y52cr8-x-z' instead of 'oUr-7c8D-1t3E08-Y52Cr8-X-z'."
+    ]
+  },
+  {
+    "Input": "ZH-HAKKA",
+    "Canonical": "hak",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "hakka",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-hakka' is grandfathered. You should use 'hak' instead.",
+      "'HAKKA' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'hak' instead of 'ZH-HAKKA'."
+    ]
+  },
+  {
+    "Input": "ZP-yhG-FzX-Znu-pqoK-073-6e82-9r8C-0wI8",
+    "Canonical": "zp-yhg-Pqok-073-6e82-9r8c-0wi8",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zp",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Pqok",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "073",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "6e82",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "9r8c",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "0wi8",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'ZP' is not a valid subtag of type 'language'.",
+      "'yhG' is not a valid subtag of type 'extlang'.",
+      "'FzX' is not a valid subtag of type 'extlang'.",
+      "'Znu' is not a valid subtag of type 'extlang'.",
+      "'pqoK' is not a valid subtag of type 'script'.",
+      "'073' is not a valid subtag of type 'region'.",
+      "'6e82' is not a valid subtag of type 'variant'.",
+      "'9r8C' is not a valid subtag of type 'variant'.",
+      "'0wI8' is not a valid subtag of type 'variant'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'zp-yhg-Pqok-073-6e82-9r8c-0wi8' instead of 'ZP-yhG-FzX-Znu-pqoK-073-6e82-9r8C-0wI8'."
+    ]
+  },
+  {
+    "Input": "KXrXG-hQBc",
+    "Canonical": "kxrxg-Hqbc",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "kxrxg",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Hqbc",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'KXrXG' is not a valid subtag of type 'language'.",
+      "'hQBc' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'kxrxg-Hqbc' instead of 'KXrXG-hQBc'."
+    ]
+  },
+  {
+    "Input": "i-tsu",
+    "Canonical": "tsu",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-tsu' is grandfathered. You should use 'tsu' instead.",
+      "Consider to use the canonical form 'tsu' instead of 'i-tsu'."
+    ]
+  },
+  {
+    "Input": "CvML-FazM-x-5",
+    "Canonical": "cvml-Fazm-x-5",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "cvml",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Fazm",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "5"
+    ],
+    "Messages": [
+      "'CvML' is not a valid subtag of type 'language'.",
+      "'FazM' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'cvml-Fazm-x-5' instead of 'CvML-FazM-x-5'."
+    ]
+  },
+  {
+    "Input": "LBwhXW-dQRH-599-Q-2Q0-x-aN",
+    "Canonical": "lbwhxw-Dqrh-599-Q-2Q0-x-an",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "lbwhxw",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Dqrh",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "599",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "Q": [
+          "2Q0"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "aN"
+    ],
+    "Messages": [
+      "'LBwhXW' is not a valid subtag of type 'language'.",
+      "'dQRH' is not a valid subtag of type 'script'.",
+      "'599' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'lbwhxw-Dqrh-599-Q-2Q0-x-an' instead of 'LBwhXW-dQRH-599-Q-2Q0-x-aN'."
+    ]
+  },
+  {
+    "Input": "I-PWN",
+    "Canonical": "pwn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-pwn' is grandfathered. You should use 'pwn' instead.",
+      "Consider to use the canonical form 'pwn' instead of 'I-PWN'."
+    ]
+  },
+  {
+    "Input": "sgG-ppEv-0w6s-8Y86-W-4uW-0Cb-x-l",
+    "Canonical": "sgg-Ppev-0w6s-8y86-W-4uW-0Cb-x-l",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "sgg",
+      "Description": "Swiss-German Sign Language"
+    },
+    "ScriptSubtag": {
+      "Name": "Ppev",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "0w6s",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "8y86",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "W": [
+          "4uW",
+          "0Cb"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "l"
+    ],
+    "Messages": [
+      "'ppEv' is not a valid subtag of type 'script'.",
+      "'0w6s' is not a valid subtag of type 'variant'.",
+      "'8Y86' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'sgg-Ppev-0w6s-8y86-W-4uW-0Cb-x-l' instead of 'sgG-ppEv-0w6s-8Y86-W-4uW-0Cb-x-l'."
+    ]
+  },
+  {
+    "Input": "tpxe-Ha-c-cY4-x-H-D-O-D-GxN64rG",
+    "Canonical": "tpxe-HA-c-cY4-x-h-d-o-d-gxn64rg",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "tpxe",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "HA",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "c": [
+          "cY4"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "H",
+      "D",
+      "O",
+      "D",
+      "GxN64rG"
+    ],
+    "Messages": [
+      "'tpxe' is not a valid subtag of type 'language'.",
+      "'Ha' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'tpxe-HA-c-cY4-x-h-d-o-d-gxn64rg' instead of 'tpxe-Ha-c-cY4-x-H-D-O-D-GxN64rG'."
+    ]
+  },
+  {
+    "Input": "IlDcnl-vDct-Kf",
+    "Canonical": "ildcnl-Vdct-KF",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "ildcnl",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Vdct",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "KF",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'IlDcnl' is not a valid subtag of type 'language'.",
+      "'vDct' is not a valid subtag of type 'script'.",
+      "'Kf' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'ildcnl-Vdct-KF' instead of 'IlDcnl-vDct-Kf'."
+    ]
+  },
+  {
+    "Input": "lN-BtU-PNV-GiB-8LOv-4I14-x-d-DY2w-R6",
+    "Canonical": "ln-btu-8lov-4i14-x-d-dy2w-r6",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "ln",
+      "Description": "Lingala"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "8lov",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "4i14",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "d",
+      "DY2w",
+      "R6"
+    ],
+    "Messages": [
+      "'BtU' is not a valid subtag of type 'extlang'.",
+      "'PNV' is not a valid subtag of type 'extlang'.",
+      "'GiB' is not a valid subtag of type 'extlang'.",
+      "'8LOv' is not a valid subtag of type 'variant'.",
+      "'4I14' is not a valid subtag of type 'variant'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'ln-btu-8lov-4i14-x-d-dy2w-r6' instead of 'lN-BtU-PNV-GiB-8LOv-4I14-x-d-DY2w-R6'."
+    ]
+  },
+  {
+    "Input": "jm-VaA-0gEH1",
+    "Canonical": "jm-vaa-0geh1",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "jm",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "0geh1",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'jm' is not a valid subtag of type 'language'.",
+      "'VaA' is not a valid subtag of type 'extlang'.",
+      "'0gEH1' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'jm-vaa-0geh1' instead of 'jm-VaA-0gEH1'."
+    ]
+  },
+  {
+    "Input": "i-ami",
+    "Canonical": "ami",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-ami' is grandfathered. You should use 'ami' instead.",
+      "Consider to use the canonical form 'ami' instead of 'i-ami'."
+    ]
+  },
+  {
+    "Input": "IrzH-zfOI-103-y-tqnGh0",
+    "Canonical": "irzh-Zfoi-103-y-tqnGh0",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "irzh",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Zfoi",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "103",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "y": [
+          "tqnGh0"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'IrzH' is not a valid subtag of type 'language'.",
+      "'zfOI' is not a valid subtag of type 'script'.",
+      "'103' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'irzh-Zfoi-103-y-tqnGh0' instead of 'IrzH-zfOI-103-y-tqnGh0'."
+    ]
+  },
+  {
+    "Input": "ZH-GUOYU",
+    "Canonical": "cmn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "guoyu",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-guoyu' is grandfathered. You should use 'cmn' instead.",
+      "'GUOYU' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'cmn' instead of 'ZH-GUOYU'."
+    ]
+  },
+  {
+    "Input": "ztTF-M-G7",
+    "Canonical": "zttf-M-G7",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zttf",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "M": [
+          "G7"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'ztTF' is not a valid subtag of type 'language'.",
+      "Consider to use the canonical form 'zttf-M-G7' instead of 'ztTF-M-G7'."
+    ]
+  },
+  {
+    "Input": "ART-LOJBAN",
+    "Canonical": "jbo",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "art",
+      "Description": "Artificial languages"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "lojban",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'art-lojban' is grandfathered. You should use 'jbo' instead.",
+      "'LOJBAN' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'jbo' instead of 'ART-LOJBAN'."
+    ]
+  },
+  {
+    "Input": "khzJ-x-5E-5",
+    "Canonical": "khzj-x-5e-5",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "khzj",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "5E",
+      "5"
+    ],
+    "Messages": [
+      "'khzJ' is not a valid subtag of type 'language'.",
+      "Consider to use the canonical form 'khzj-x-5e-5' instead of 'khzJ-x-5E-5'."
+    ]
+  },
+  {
+    "Input": "zh-guoyu",
+    "Canonical": "cmn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "guoyu",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-guoyu' is grandfathered. You should use 'cmn' instead.",
+      "'guoyu' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'cmn' instead of 'zh-guoyu'."
+    ]
+  },
+  {
+    "Input": "no-bok",
+    "Canonical": "nb",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "no",
+      "Description": "Norwegian"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'no-bok' is grandfathered. You should use 'nb' instead.",
+      "'bok' is not a valid subtag of type 'extlang'.",
+      "Consider to use the canonical form 'nb' instead of 'no-bok'."
+    ]
+  },
+  {
+    "Input": "sgn-be-fr",
+    "Canonical": "sfb",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'sgn-BE-FR' is grandfathered. You should use 'sfb' instead.",
+      "Consider to use the canonical form 'sfb' instead of 'sgn-be-fr'."
+    ]
+  },
+  {
+    "Input": "oCt-HJe-oGtt-L-30U-F5-7l-Y-bI-C-98-X-7V6W2-ns",
+    "Canonical": "oct-hje-Ogtt-C-98-L-30U-F5-7l-Y-bI-x-7v6w2-ns",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "oct",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Ogtt",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "L": [
+          "30U",
+          "F5",
+          "7l"
+        ]
+      },
+      {
+        "Y": [
+          "bI"
+        ]
+      },
+      {
+        "C": [
+          "98"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "7V6W2",
+      "ns"
+    ],
+    "Messages": [
+      "'oCt' is not a valid subtag of type 'language'.",
+      "'HJe' is not a valid subtag of type 'extlang'.",
+      "'oGtt' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'oct-hje-Ogtt-C-98-L-30U-F5-7l-Y-bI-x-7v6w2-ns' instead of 'oCt-HJe-oGtt-L-30U-F5-7l-Y-bI-C-98-X-7V6W2-ns'."
+    ]
+  },
+  {
+    "Input": "zIrezey-zAvB-x-7-6",
+    "Canonical": "zirezey-Zavb-x-7-6",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zirezey",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Zavb",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "7",
+      "6"
+    ],
+    "Messages": [
+      "'zIrezey' is not a valid subtag of type 'language'.",
+      "'zAvB' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'zirezey-Zavb-x-7-6' instead of 'zIrezey-zAvB-x-7-6'."
+    ]
+  },
+  {
+    "Input": "WpGTR-Nz-pbign-X-q77",
+    "Canonical": "wpgtr-NZ-pbign-x-q77",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "wpgtr",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "NZ",
+      "Description": "New Zealand"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "pbign",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "q77"
+    ],
+    "Messages": [
+      "'WpGTR' is not a valid subtag of type 'language'.",
+      "'pbign' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'wpgtr-NZ-pbign-x-q77' instead of 'WpGTR-Nz-pbign-X-q77'."
+    ]
+  },
+  {
+    "Input": "PTqo-124",
+    "Canonical": "ptqo-124",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "ptqo",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "124",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'PTqo' is not a valid subtag of type 'language'.",
+      "'124' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'ptqo-124' instead of 'PTqo-124'."
+    ]
+  },
+  {
+    "Input": "Fkbev-Fbrz-oe-I-Q7-X-b",
+    "Canonical": "fkbev-Fbrz-OE-I-Q7-x-b",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "fkbev",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Fbrz",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "OE",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "I": [
+          "Q7"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "b"
+    ],
+    "Messages": [
+      "'Fkbev' is not a valid subtag of type 'language'.",
+      "'Fbrz' is not a valid subtag of type 'script'.",
+      "'oe' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'fkbev-Fbrz-OE-I-Q7-x-b' instead of 'Fkbev-Fbrz-oe-I-Q7-X-b'."
+    ]
+  },
+  {
+    "Input": "SGN-BE-FR",
+    "Canonical": "sfb",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'sgn-BE-FR' is grandfathered. You should use 'sfb' instead.",
+      "Consider to use the canonical form 'sfb' instead of 'SGN-BE-FR'."
+    ]
+  },
+  {
+    "Input": "FK-mQu-WJs-crL-X-33-NuH893eK-N-9-6U2",
+    "Canonical": "fk-mqu-x-33-nuh893ek-n-9-6u2",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "fk",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "33",
+      "NuH893eK",
+      "N",
+      "9",
+      "6U2"
+    ],
+    "Messages": [
+      "'FK' is not a valid subtag of type 'language'.",
+      "'mQu' is not a valid subtag of type 'extlang'.",
+      "'WJs' is not a valid subtag of type 'extlang'.",
+      "'crL' is not a valid subtag of type 'extlang'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'fk-mqu-x-33-nuh893ek-n-9-6u2' instead of 'FK-mQu-WJs-crL-X-33-NuH893eK-N-9-6U2'."
+    ]
+  },
+  {
+    "Input": "ZH-MIN-NAN",
+    "Canonical": "nan",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-min-nan' is grandfathered. You should use 'nan' instead.",
+      "You should use 'min' instead of 'ms-min'.",
+      "You should use 'nan' instead of 'zh-nan'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'nan' instead of 'ZH-MIN-NAN'."
+    ]
+  },
+  {
+    "Input": "VJCq-mtKh-567p6-3b2r-l-86-x-26",
+    "Canonical": "vjcq-Mtkh-567p6-3b2r-l-86-x-26",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "vjcq",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Mtkh",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "567p6",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "3b2r",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "l": [
+          "86"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "26"
+    ],
+    "Messages": [
+      "'VJCq' is not a valid subtag of type 'language'.",
+      "'mtKh' is not a valid subtag of type 'script'.",
+      "'567p6' is not a valid subtag of type 'variant'.",
+      "'3b2r' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'vjcq-Mtkh-567p6-3b2r-l-86-x-26' instead of 'VJCq-mtKh-567p6-3b2r-l-86-x-26'."
+    ]
+  },
+  {
+    "Input": "CEL-GAULISH",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "cel",
+      "Description": "Celtic languages"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "gaulish",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'cel-gaulish' is grandfathered.",
+      "'GAULISH' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form '' instead of 'CEL-GAULISH'."
+    ]
+  },
+  {
+    "Input": "IXdQbMDl-jal84-1R37",
+    "Canonical": "ixdqbmdl-jal84-1r37",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "ixdqbmdl",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "jal84",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "1r37",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'IXdQbMDl' is not a valid subtag of type 'language'.",
+      "'jal84' is not a valid subtag of type 'variant'.",
+      "'1R37' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'ixdqbmdl-jal84-1r37' instead of 'IXdQbMDl-jal84-1R37'."
+    ]
+  },
+  {
+    "Input": "oxc-GXL-eIt-gsPP-zb-5053-N-23g-X-2",
+    "Canonical": "oxc-gxl-Gspp-ZB-5053-N-23g-x-2",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "oxc",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Gspp",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "ZB",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "5053",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "N": [
+          "23g"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "2"
+    ],
+    "Messages": [
+      "'oxc' is not a valid subtag of type 'language'.",
+      "'GXL' is not a valid subtag of type 'extlang'.",
+      "'eIt' is not a valid subtag of type 'extlang'.",
+      "'gsPP' is not a valid subtag of type 'script'.",
+      "'zb' is not a valid subtag of type 'region'.",
+      "'5053' is not a valid subtag of type 'variant'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'oxc-gxl-Gspp-ZB-5053-N-23g-x-2' instead of 'oxc-GXL-eIt-gsPP-zb-5053-N-23g-X-2'."
+    ]
+  },
+  {
+    "Input": "zh-min",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-min' is grandfathered.",
+      "You should use 'min' instead of 'ms-min'.",
+      "The subtag 'min' must be used with the prefix 'ms'.",
+      "Consider to use the canonical form '' instead of 'zh-min'."
+    ]
+  },
+  {
+    "Input": "lGnU-449-J0p3i836-6AxS-38Y41mt",
+    "Canonical": "lgnu-449-j0p3i836-6axs-38y41mt",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "lgnu",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "449",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "j0p3i836",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "6axs",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "38y41mt",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'lGnU' is not a valid subtag of type 'language'.",
+      "'449' is not a valid subtag of type 'region'.",
+      "'J0p3i836' is not a valid subtag of type 'variant'.",
+      "'6AxS' is not a valid subtag of type 'variant'.",
+      "'38Y41mt' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'lgnu-449-j0p3i836-6axs-38y41mt' instead of 'lGnU-449-J0p3i836-6AxS-38Y41mt'."
+    ]
+  },
+  {
+    "Input": "GGw-85Ee-H-16",
+    "Canonical": "ggw-85ee-H-16",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "ggw",
+      "Description": "Gogodala"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "85ee",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "H": [
+          "16"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'85Ee' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'ggw-85ee-H-16' instead of 'GGw-85Ee-H-16'."
+    ]
+  },
+  {
+    "Input": "HqH-gxZU-451-u-wg4-d-5hK0",
+    "Canonical": "hqh-Gxzu-451-d-5hK0-u-wg4",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "hqh",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Gxzu",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "451",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "u": [
+          "wg4"
+        ]
+      },
+      {
+        "d": [
+          "5hK0"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'HqH' is not a valid subtag of type 'language'.",
+      "'gxZU' is not a valid subtag of type 'script'.",
+      "'451' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'hqh-Gxzu-451-d-5hK0-u-wg4' instead of 'HqH-gxZU-451-u-wg4-d-5hK0'."
+    ]
+  },
+  {
+    "Input": "cel-gaulish",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "cel",
+      "Description": "Celtic languages"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "gaulish",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'cel-gaulish' is grandfathered.",
+      "'gaulish' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form '' instead of 'cel-gaulish'."
+    ]
+  },
+  {
+    "Input": "zh-xiang",
+    "Canonical": "hsn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "xiang",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-xiang' is grandfathered. You should use 'hsn' instead.",
+      "'xiang' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'hsn' instead of 'zh-xiang'."
+    ]
+  },
+  {
+    "Input": "vBgj-XoTH-sh4ectk",
+    "Canonical": "vbgj-Xoth-sh4ectk",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "vbgj",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Xoth",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "sh4ectk",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'vBgj' is not a valid subtag of type 'language'.",
+      "'XoTH' is not a valid subtag of type 'script'.",
+      "'sh4ectk' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'vbgj-Xoth-sh4ectk' instead of 'vBgj-XoTH-sh4ectk'."
+    ]
+  },
+  {
+    "Input": "SGN-CH-DE",
+    "Canonical": "sgg",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'sgn-CH-DE' is grandfathered. You should use 'sgg' instead.",
+      "Consider to use the canonical form 'sgg' instead of 'SGN-CH-DE'."
+    ]
+  },
+  {
+    "Input": "ZH-MIN",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-min' is grandfathered.",
+      "You should use 'min' instead of 'ms-min'.",
+      "The subtag 'min' must be used with the prefix 'ms'.",
+      "Consider to use the canonical form '' instead of 'ZH-MIN'."
+    ]
+  },
+  {
+    "Input": "i-hak",
+    "Canonical": "hak",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-hak' is grandfathered. You should use 'hak' instead.",
+      "Consider to use the canonical form 'hak' instead of 'i-hak'."
+    ]
+  },
+  {
+    "Input": "ADTRG-324-Um924-1z85-34421-U-I772287-6a-13-fIwq6-n-rQ7-X-7p-ln44",
+    "Canonical": "adtrg-324-um924-1z85-34421-n-rQ7-U-I772287-6a-13-fIwq6-x-7p-ln44",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "adtrg",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "324",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "um924",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "1z85",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "34421",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "U": [
+          "I772287",
+          "6a",
+          "13",
+          "fIwq6"
+        ]
+      },
+      {
+        "n": [
+          "rQ7"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "7p",
+      "ln44"
+    ],
+    "Messages": [
+      "'ADTRG' is not a valid subtag of type 'language'.",
+      "'324' is not a valid subtag of type 'region'.",
+      "'Um924' is not a valid subtag of type 'variant'.",
+      "'1z85' is not a valid subtag of type 'variant'.",
+      "'34421' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'adtrg-324-um924-1z85-34421-n-rQ7-U-I772287-6a-13-fIwq6-x-7p-ln44' instead of 'ADTRG-324-Um924-1z85-34421-U-I772287-6a-13-fIwq6-n-rQ7-X-7p-ln44'."
+    ]
+  },
+  {
+    "Input": "WQSm-MczP-Gg-2952-906p6-S-1Pv-Z9-I9y4-e-0w",
+    "Canonical": "wqsm-Mczp-GG-2952-906p6-e-0w-S-1Pv-Z9-I9y4",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "wqsm",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Mczp",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "GG",
+      "Description": "Guernsey"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "2952",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "906p6",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "S": [
+          "1Pv",
+          "Z9",
+          "I9y4"
+        ]
+      },
+      {
+        "e": [
+          "0w"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'WQSm' is not a valid subtag of type 'language'.",
+      "'MczP' is not a valid subtag of type 'script'.",
+      "'2952' is not a valid subtag of type 'variant'.",
+      "'906p6' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'wqsm-Mczp-GG-2952-906p6-e-0w-S-1Pv-Z9-I9y4' instead of 'WQSm-MczP-Gg-2952-906p6-S-1Pv-Z9-I9y4-e-0w'."
+    ]
+  },
+  {
+    "Input": "NO-BOK",
+    "Canonical": "nb",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "no",
+      "Description": "Norwegian"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'no-bok' is grandfathered. You should use 'nb' instead.",
+      "'BOK' is not a valid subtag of type 'extlang'.",
+      "Consider to use the canonical form 'nb' instead of 'NO-BOK'."
+    ]
+  },
+  {
+    "Input": "kA-rPb-npj-TCq-jX",
+    "Canonical": "ka-rpb-JX",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "ka",
+      "Description": "Georgian"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "JX",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'rPb' is not a valid subtag of type 'extlang'.",
+      "'npj' is not a valid subtag of type 'extlang'.",
+      "'TCq' is not a valid subtag of type 'extlang'.",
+      "'jX' is not a valid subtag of type 'region'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'ka-rpb-JX' instead of 'kA-rPb-npj-TCq-jX'."
+    ]
+  },
+  {
+    "Input": "zh-min-nan",
+    "Canonical": "nan",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-min-nan' is grandfathered. You should use 'nan' instead.",
+      "You should use 'min' instead of 'ms-min'.",
+      "You should use 'nan' instead of 'zh-nan'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'nan' instead of 'zh-min-nan'."
+    ]
+  },
+  {
+    "Input": "Rwdz-ngzf-577-46Jt54m8-22h3-78721-5f16-02zT-R-Pq20k-8l3-013i-0mT5N-eU-P347-m1-o-5a-x-1",
+    "Canonical": "rwdz-Ngzf-577-46jt54m8-22h3-78721-5f16-02zt-o-5a-R-Pq20k-8l3-013i-0mT5N-eU-P347-m1-x-1",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "rwdz",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Ngzf",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "577",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "46jt54m8",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "22h3",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "78721",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "5f16",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "02zt",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "R": [
+          "Pq20k",
+          "8l3",
+          "013i",
+          "0mT5N",
+          "eU",
+          "P347",
+          "m1"
+        ]
+      },
+      {
+        "o": [
+          "5a"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "1"
+    ],
+    "Messages": [
+      "'Rwdz' is not a valid subtag of type 'language'.",
+      "'ngzf' is not a valid subtag of type 'script'.",
+      "'577' is not a valid subtag of type 'region'.",
+      "'46Jt54m8' is not a valid subtag of type 'variant'.",
+      "'22h3' is not a valid subtag of type 'variant'.",
+      "'78721' is not a valid subtag of type 'variant'.",
+      "'5f16' is not a valid subtag of type 'variant'.",
+      "'02zT' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'rwdz-Ngzf-577-46jt54m8-22h3-78721-5f16-02zt-o-5a-R-Pq20k-8l3-013i-0mT5N-eU-P347-m1-x-1' instead of 'Rwdz-ngzf-577-46Jt54m8-22h3-78721-5f16-02zT-R-Pq20k-8l3-013i-0mT5N-eU-P347-m1-o-5a-x-1'."
+    ]
+  },
+  {
+    "Input": "zh-hakka",
+    "Canonical": "hak",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "zh",
+      "Description": "Chinese"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "hakka",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'zh-hakka' is grandfathered. You should use 'hak' instead.",
+      "'hakka' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'hak' instead of 'zh-hakka'."
+    ]
+  },
+  {
+    "Input": "bwCu-TuLm-X-B-01-0-F-Kf",
+    "Canonical": "bwcu-Tulm-x-b-01-0-f-kf",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "bwcu",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Tulm",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "B",
+      "01",
+      "0",
+      "F",
+      "Kf"
+    ],
+    "Messages": [
+      "'bwCu' is not a valid subtag of type 'language'.",
+      "'TuLm' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'bwcu-Tulm-x-b-01-0-f-kf' instead of 'bwCu-TuLm-X-B-01-0-F-Kf'."
+    ]
+  },
+  {
+    "Input": "sgn-ch-de",
+    "Canonical": "sgg",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'sgn-CH-DE' is grandfathered. You should use 'sgg' instead.",
+      "Consider to use the canonical form 'sgg' instead of 'sgn-ch-de'."
+    ]
+  },
+  {
+    "Input": "art-lojban",
+    "Canonical": "jbo",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "art",
+      "Description": "Artificial languages"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "lojban",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'art-lojban' is grandfathered. You should use 'jbo' instead.",
+      "'lojban' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'jbo' instead of 'art-lojban'."
+    ]
+  },
+  {
+    "Input": "TAiCvajp-wtia-101Jo9-6PY33K64-w-16-8wJ8",
+    "Canonical": "taicvajp-Wtia-101jo9-6py33k64-w-16-8wJ8",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "taicvajp",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Wtia",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "101jo9",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "6py33k64",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "w": [
+          "16",
+          "8wJ8"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'TAiCvajp' is not a valid subtag of type 'language'.",
+      "'wtia' is not a valid subtag of type 'script'.",
+      "'101Jo9' is not a valid subtag of type 'variant'.",
+      "'6PY33K64' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'taicvajp-Wtia-101jo9-6py33k64-w-16-8wJ8' instead of 'TAiCvajp-wtia-101Jo9-6PY33K64-w-16-8wJ8'."
+    ]
+  },
+  {
+    "Input": "QCnL-MJ-X-I",
+    "Canonical": "qcnl-MJ-x-i",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "qcnl",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "MJ",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "I"
+    ],
+    "Messages": [
+      "'QCnL' is not a valid subtag of type 'language'.",
+      "'MJ' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'qcnl-MJ-x-i' instead of 'QCnL-MJ-X-I'."
+    ]
+  },
+  {
+    "Input": "Pz-yW",
+    "Canonical": "pz-YW",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "pz",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "YW",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'Pz' is not a valid subtag of type 'language'.",
+      "'yW' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'pz-YW' instead of 'Pz-yW'."
+    ]
+  },
+  {
+    "Input": "I-HAK",
+    "Canonical": "hak",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-hak' is grandfathered. You should use 'hak' instead.",
+      "Consider to use the canonical form 'hak' instead of 'I-HAK'."
+    ]
+  },
+  {
+    "Input": "SGN-BE-NL",
+    "Canonical": "vgt",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'sgn-BE-NL' is grandfathered. You should use 'vgt' instead.",
+      "Consider to use the canonical form 'vgt' instead of 'SGN-BE-NL'."
+    ]
+  },
+  {
+    "Input": "tLCF-Oe-11qy-559c9v-k7nR94Ev-s-6VPx-1M-T-fb-t60K0-c1621X-1637-E-052-69-f4-p0-7qR-x-g",
+    "Canonical": "tlcf-OE-11qy-559c9v-k7nr94ev-E-052-69-f4-p0-7qR-s-6VPx-1M-T-fb-t60K0-c1621X-1637-x-g",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "tlcf",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "OE",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "11qy",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "559c9v",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "k7nr94ev",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "s": [
+          "6VPx",
+          "1M"
+        ]
+      },
+      {
+        "T": [
+          "fb",
+          "t60K0",
+          "c1621X",
+          "1637"
+        ]
+      },
+      {
+        "E": [
+          "052",
+          "69",
+          "f4",
+          "p0",
+          "7qR"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "g"
+    ],
+    "Messages": [
+      "'tLCF' is not a valid subtag of type 'language'.",
+      "'Oe' is not a valid subtag of type 'region'.",
+      "'11qy' is not a valid subtag of type 'variant'.",
+      "'559c9v' is not a valid subtag of type 'variant'.",
+      "'k7nR94Ev' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'tlcf-OE-11qy-559c9v-k7nr94ev-E-052-69-f4-p0-7qR-s-6VPx-1M-T-fb-t60K0-c1621X-1637-x-g' instead of 'tLCF-Oe-11qy-559c9v-k7nR94Ev-s-6VPx-1M-T-fb-t60K0-c1621X-1637-E-052-69-f4-p0-7qR-x-g'."
+    ]
+  },
+  {
+    "Input": "TKq-aOFp-59tEt-904c-X-5m-84-ImZ",
+    "Canonical": "tkq-Aofp-59tet-904c-x-5m-84-imz",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "tkq",
+      "Description": "Tee"
+    },
+    "ScriptSubtag": {
+      "Name": "Aofp",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "59tet",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "904c",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "5m",
+      "84",
+      "ImZ"
+    ],
+    "Messages": [
+      "'aOFp' is not a valid subtag of type 'script'.",
+      "'59tEt' is not a valid subtag of type 'variant'.",
+      "'904c' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'tkq-Aofp-59tet-904c-x-5m-84-imz' instead of 'TKq-aOFp-59tEt-904c-X-5m-84-ImZ'."
+    ]
+  },
+  {
+    "Input": "I-MINGO",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-mingo' is grandfathered.",
+      "Consider to use the canonical form '' instead of 'I-MINGO'."
+    ]
+  },
+  {
+    "Input": "NO-NYN",
+    "Canonical": "nn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "no",
+      "Description": "Norwegian"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'no-nyn' is grandfathered. You should use 'nn' instead.",
+      "'NYN' is not a valid subtag of type 'extlang'.",
+      "Consider to use the canonical form 'nn' instead of 'NO-NYN'."
+    ]
+  },
+  {
+    "Input": "OPLye-PAwd-Se-x-842-2",
+    "Canonical": "oplye-Pawd-SE-x-842-2",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "oplye",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Pawd",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "SE",
+      "Description": "Sweden"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "842",
+      "2"
+    ],
+    "Messages": [
+      "'OPLye' is not a valid subtag of type 'language'.",
+      "'PAwd' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'oplye-Pawd-SE-x-842-2' instead of 'OPLye-PAwd-Se-x-842-2'."
+    ]
+  },
+  {
+    "Input": "I-TAY",
+    "Canonical": "tay",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-tay' is grandfathered. You should use 'tay' instead.",
+      "Consider to use the canonical form 'tay' instead of 'I-TAY'."
+    ]
+  },
+  {
+    "Input": "no-nyn",
+    "Canonical": "nn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "no",
+      "Description": "Norwegian"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'no-nyn' is grandfathered. You should use 'nn' instead.",
+      "'nyn' is not a valid subtag of type 'extlang'.",
+      "Consider to use the canonical form 'nn' instead of 'no-nyn'."
+    ]
+  },
+  {
+    "Input": "YhIlc-ReAB",
+    "Canonical": "yhilc-Reab",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "yhilc",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Reab",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'YhIlc' is not a valid subtag of type 'language'.",
+      "'ReAB' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'yhilc-Reab' instead of 'YhIlc-ReAB'."
+    ]
+  },
+  {
+    "Input": "i-default",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-default' is grandfathered.",
+      "Consider to use the canonical form '' instead of 'i-default'."
+    ]
+  },
+  {
+    "Input": "i-tay",
+    "Canonical": "tay",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-tay' is grandfathered. You should use 'tay' instead.",
+      "Consider to use the canonical form 'tay' instead of 'i-tay'."
+    ]
+  },
+  {
+    "Input": "UHV-Iifv-871-0vQ8-1o436TF-8H643-X-4-1U2V-5G-5-W-A2",
+    "Canonical": "uhv-Iifv-871-0vq8-1o436tf-8h643-x-4-1u2v-5g-5-w-a2",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "uhv",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Iifv",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "871",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "0vq8",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "1o436tf",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "8h643",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "4",
+      "1U2V",
+      "5G",
+      "5",
+      "W",
+      "A2"
+    ],
+    "Messages": [
+      "'UHV' is not a valid subtag of type 'language'.",
+      "'Iifv' is not a valid subtag of type 'script'.",
+      "'871' is not a valid subtag of type 'region'.",
+      "'0vQ8' is not a valid subtag of type 'variant'.",
+      "'1o436TF' is not a valid subtag of type 'variant'.",
+      "'8H643' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'uhv-Iifv-871-0vq8-1o436tf-8h643-x-4-1u2v-5g-5-w-a2' instead of 'UHV-Iifv-871-0vQ8-1o436TF-8H643-X-4-1U2V-5G-5-W-A2'."
+    ]
+  },
+  {
+    "Input": "sDLW-Fs-X-ce76-M-N-8em",
+    "Canonical": "sdlw-FS-x-ce76-m-n-8em",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "sdlw",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "FS",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "ce76",
+      "M",
+      "N",
+      "8em"
+    ],
+    "Messages": [
+      "'sDLW' is not a valid subtag of type 'language'.",
+      "'Fs' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'sdlw-FS-x-ce76-m-n-8em' instead of 'sDLW-Fs-X-ce76-M-N-8em'."
+    ]
+  },
+  {
+    "Input": "iKy-Nsp-dLrJ-Lz-iylm5-P-Y0-V8",
+    "Canonical": "iky-nsp-Dlrj-LZ-iylm5-P-Y0-V8",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "iky",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Dlrj",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "LZ",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [
+      {
+        "Name": "iylm5",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "P": [
+          "Y0",
+          "V8"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'iKy' is not a valid subtag of type 'language'.",
+      "You should use 'nsp' instead of 'sgn-nsp'.",
+      "'dLrJ' is not a valid subtag of type 'script'.",
+      "'Lz' is not a valid subtag of type 'region'.",
+      "'iylm5' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'iky-nsp-Dlrj-LZ-iylm5-P-Y0-V8' instead of 'iKy-Nsp-dLrJ-Lz-iylm5-P-Y0-V8'."
+    ]
+  },
+  {
+    "Input": "i-mingo",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-mingo' is grandfathered.",
+      "Consider to use the canonical form '' instead of 'i-mingo'."
+    ]
+  },
+  {
+    "Input": "I-NAVAJO",
+    "Canonical": "nv",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-navajo' is grandfathered. You should use 'nv' instead.",
+      "Consider to use the canonical form 'nv' instead of 'I-NAVAJO'."
+    ]
+  },
+  {
+    "Input": "BuXFIG-isvR-h-00-x-28-7",
+    "Canonical": "buxfig-Isvr-h-00-x-28-7",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "buxfig",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Isvr",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "h": [
+          "00"
+        ]
+      }
+    ],
+    "PrivateSubtags": [
+      "28",
+      "7"
+    ],
+    "Messages": [
+      "'BuXFIG' is not a valid subtag of type 'language'.",
+      "'isvR' is not a valid subtag of type 'script'.",
+      "Consider to use the canonical form 'buxfig-Isvr-h-00-x-28-7' instead of 'BuXFIG-isvR-h-00-x-28-7'."
+    ]
+  },
+  {
+    "Input": "I-TSU",
+    "Canonical": "tsu",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-tsu' is grandfathered. You should use 'tsu' instead.",
+      "Consider to use the canonical form 'tsu' instead of 'I-TSU'."
+    ]
+  },
+  {
+    "Input": "YF-bEC-XJV-Szsq-NZ-p-70-A-3B",
+    "Canonical": "yf-bec-Szsq-NZ-A-3B-p-70",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "yf",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Szsq",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "NZ",
+      "Description": "New Zealand"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "p": [
+          "70"
+        ]
+      },
+      {
+        "A": [
+          "3B"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'YF' is not a valid subtag of type 'language'.",
+      "'bEC' is not a valid subtag of type 'extlang'.",
+      "'XJV' is not a valid subtag of type 'extlang'.",
+      "'Szsq' is not a valid subtag of type 'script'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'yf-bec-Szsq-NZ-A-3B-p-70' instead of 'YF-bEC-XJV-Szsq-NZ-p-70-A-3B'."
+    ]
+  },
+  {
+    "Input": "I-KLINGON",
+    "Canonical": "tlh",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-klingon' is grandfathered. You should use 'tlh' instead.",
+      "Consider to use the canonical form 'tlh' instead of 'I-KLINGON'."
+    ]
+  },
+  {
+    "Input": "AJ-yhH-eY",
+    "Canonical": "aj-yhh-EY",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "aj",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "EY",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'AJ' is not a valid subtag of type 'language'.",
+      "'yhH' is not a valid subtag of type 'extlang'.",
+      "'eY' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'aj-yhh-EY' instead of 'AJ-yhH-eY'."
+    ]
+  },
+  {
+    "Input": "TbuzXlz-fa-f-0S-U6-BI",
+    "Canonical": "tbuzxlz-FA-f-0S-U6-BI",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "tbuzxlz",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "FA",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "f": [
+          "0S",
+          "U6",
+          "BI"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'TbuzXlz' is not a valid subtag of type 'language'.",
+      "'fa' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'tbuzxlz-FA-f-0S-U6-BI' instead of 'TbuzXlz-fa-f-0S-U6-BI'."
+    ]
+  },
+  {
+    "Input": "i-pwn",
+    "Canonical": "pwn",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-pwn' is grandfathered. You should use 'pwn' instead.",
+      "Consider to use the canonical form 'pwn' instead of 'i-pwn'."
+    ]
+  },
+  {
+    "Input": "JpxKkOc-McbZ-141",
+    "Canonical": "jpxkkoc-Mcbz-141",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "jpxkkoc",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": {
+      "Name": "Mcbz",
+      "Description": "Unknown subtag of type 'script'"
+    },
+    "RegionSubtag": {
+      "Name": "141",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'JpxKkOc' is not a valid subtag of type 'language'.",
+      "'McbZ' is not a valid subtag of type 'script'.",
+      "'141' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'jpxkkoc-Mcbz-141' instead of 'JpxKkOc-McbZ-141'."
+    ]
+  },
+  {
+    "Input": "Jp-NY",
+    "Canonical": "jp-NY",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "jp",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": {
+      "Name": "NY",
+      "Description": "Unknown subtag of type 'region'"
+    },
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'Jp' is not a valid subtag of type 'language'.",
+      "'NY' is not a valid subtag of type 'region'.",
+      "Consider to use the canonical form 'jp-NY' instead of 'Jp-NY'."
+    ]
+  },
+  {
+    "Input": "EqiRNS-4316-0s57-9Ufq-X-9-k-w1-9F",
+    "Canonical": "eqirns-4316-0s57-9ufq-x-9-k-w1-9f",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "eqirns",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "4316",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "0s57",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "9ufq",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [
+      "9",
+      "k",
+      "w1",
+      "9F"
+    ],
+    "Messages": [
+      "'EqiRNS' is not a valid subtag of type 'language'.",
+      "'4316' is not a valid subtag of type 'variant'.",
+      "'0s57' is not a valid subtag of type 'variant'.",
+      "'9Ufq' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'eqirns-4316-0s57-9ufq-x-9-k-w1-9f' instead of 'EqiRNS-4316-0s57-9Ufq-X-9-k-w1-9F'."
+    ]
+  },
+  {
+    "Input": "AIVRNKl-a-0wM17-k8-73",
+    "Canonical": "aivrnkl-a-0wM17-k8-73",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "aivrnkl",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [
+      {
+        "a": [
+          "0wM17",
+          "k8",
+          "73"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'AIVRNKl' is not a valid subtag of type 'language'.",
+      "Consider to use the canonical form 'aivrnkl-a-0wM17-k8-73' instead of 'AIVRNKl-a-0wM17-k8-73'."
+    ]
+  },
+  {
+    "Input": "I-ENOCHIAN",
+    "Canonical": null,
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-enochian' is grandfathered.",
+      "Consider to use the canonical form '' instead of 'I-ENOCHIAN'."
+    ]
+  },
+  {
+    "Input": "Lzx-uzi-AYU",
+    "Canonical": "lzx-uzi",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "lzx",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'Lzx' is not a valid subtag of type 'language'.",
+      "'uzi' is not a valid subtag of type 'extlang'.",
+      "'AYU' is not a valid subtag of type 'extlang'.",
+      "The second and third extended language subtag positions are permanently reserved.",
+      "Consider to use the canonical form 'lzx-uzi' instead of 'Lzx-uzi-AYU'."
+    ]
+  },
+  {
+    "Input": "I-AMI",
+    "Canonical": "ami",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-ami' is grandfathered. You should use 'ami' instead.",
+      "Consider to use the canonical form 'ami' instead of 'I-AMI'."
+    ]
+  },
+  {
+    "Input": "i-navajo",
+    "Canonical": "nv",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-navajo' is grandfathered. You should use 'nv' instead.",
+      "Consider to use the canonical form 'nv' instead of 'i-navajo'."
+    ]
+  },
+  {
+    "Input": "NaTOKE-20yuw5u4-3HMh-Q0b6zT-V-xT6qg-XxC9-k-Q85-g-38-K-Y36m3-16JD-5k13R-M4zh",
+    "Canonical": "natoke-20yuw5u4-3hmh-q0b6zt-g-38-k-Q85-K-Y36m3-16JD-5k13R-M4zh-V-xT6qg-XxC9",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": false,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": {
+      "Name": "natoke",
+      "Description": "Unknown subtag of type 'language'"
+    },
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [
+      {
+        "Name": "20yuw5u4",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "3hmh",
+        "Description": "Unknown subtag of type 'variant'"
+      },
+      {
+        "Name": "q0b6zt",
+        "Description": "Unknown subtag of type 'variant'"
+      }
+    ],
+    "ExtensionSubtags": [
+      {
+        "V": [
+          "xT6qg",
+          "XxC9"
+        ]
+      },
+      {
+        "k": [
+          "Q85"
+        ]
+      },
+      {
+        "g": [
+          "38"
+        ]
+      },
+      {
+        "K": [
+          "Y36m3",
+          "16JD",
+          "5k13R",
+          "M4zh"
+        ]
+      }
+    ],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'NaTOKE' is not a valid subtag of type 'language'.",
+      "'20yuw5u4' is not a valid subtag of type 'variant'.",
+      "'3HMh' is not a valid subtag of type 'variant'.",
+      "'Q0b6zT' is not a valid subtag of type 'variant'.",
+      "Consider to use the canonical form 'natoke-20yuw5u4-3hmh-q0b6zt-g-38-k-Q85-K-Y36m3-16JD-5k13R-M4zh-V-xT6qg-XxC9' instead of 'NaTOKE-20yuw5u4-3HMh-Q0b6zT-V-xT6qg-XxC9-k-Q85-g-38-K-Y36m3-16JD-5k13R-M4zh'."
+    ]
+  },
+  {
+    "Input": "i-klingon",
+    "Canonical": "tlh",
+    "InputIsCanonical": false,
+    "Wellformed": true,
+    "Valid": true,
+    "RegistryDate": "2021-05-11",
+    "PrimaryLanguageSubtag": null,
+    "ScriptSubtag": null,
+    "RegionSubtag": null,
+    "VariantSubtags": [],
+    "ExtensionSubtags": [],
+    "PrivateSubtags": [],
+    "Messages": [
+      "'i-klingon' is grandfathered. You should use 'tlh' instead.",
+      "Consider to use the canonical form 'tlh' instead of 'i-klingon'."
+    ]
+  }
+]
