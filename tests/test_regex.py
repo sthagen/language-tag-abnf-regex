@@ -44,7 +44,7 @@ def test_nok_do_not_match_empty_tag():
 
 
 def test_ok_match_on_abnfgen_cases():
-    for number in range(2, 3):
+    for number in range(1, 101):
         tag_source_path = pathlib.Path(TAG_SOURCE_ROOT, TAG_SOURCE_NAME_TEMPLATE.format(number))
         with open(tag_source_path, 'rt', encoding=ENCODING) as tag_source:
             tag = tag_source.read()
