@@ -35,7 +35,7 @@ def match(pattern: str, text: str):
 
 
 @pytest.mark.parametrize('tag', WELL_KNOWN_TAGS)
-def test_ok_match_on_well_known_tags():
+def test_ok_match_on_well_known_tags(tag):
     assert match(PATTERN, tag)
 
 
