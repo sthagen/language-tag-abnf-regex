@@ -10,7 +10,7 @@ PATTERN_SOURCE_PATH = pathlib.Path('grammar', 'regular-expression', 'language-ta
 with open(PATTERN_SOURCE_PATH, 'rt', encoding=ENCODING) as pattern_source:
     PATTERN = pattern_source.read()
 
-TAG_SOURCE_ROOT = pathlib.Path('tests', 'abnfgen', 'language-tag-n-100-s-42')
+TAG_SOURCE_ROOT_CENT = pathlib.Path('tests', 'abnfgen', 'language-tag-n-100-s-42')
 TAG_SOURCE_NAME_TEMPLATE = 'language-tag-{}.txt'
 
 WELL_KNOWN_TAGS = (
@@ -29,6 +29,7 @@ WELL_KNOWN_TAGS = (
     'zh-TW',
 )
 
+
 def match(pattern: str, text: str):
     """Proxy method to evaluate the pattern match on text."""
     return re.match(pattern, text)
@@ -44,8 +45,8 @@ def test_nok_do_not_match_empty_tag():
 
 
 @pytest.mark.parametrize('number', tuple(range(1, 101)))
-def test_ok_match_on_abnfgen_cases(number):
-    tag_source_path = pathlib.Path(TAG_SOURCE_ROOT, TAG_SOURCE_NAME_TEMPLATE.format(number))
+def test_ok_match_on_abnfgen_cases_cent(number):
+    tag_source_path = pathlib.Path(TAG_SOURCE_ROOT_CENT, TAG_SOURCE_NAME_TEMPLATE.format(number))
     with open(tag_source_path, 'rt', encoding=ENCODING) as tag_source:
         tag = tag_source.read()
     actual = match(PATTERN, tag)
